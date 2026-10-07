@@ -222,7 +222,7 @@ Team-Brotherhood/
    ```
 
 4. **Open in browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000) to view the application.
+   Navigate to [http://localhost:3000](http://localhost:3000) to view the application or just go to https://promplint.vercel.app
 
 ---
 
